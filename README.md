@@ -1,4 +1,7 @@
 # 👋 Hola, soy Luca Exequiel Farias
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
 
 Soy **Analista de Datos** con formación en **Análisis de Sistemas** y experiencia práctica trabajando con datos en contextos reales.  
 Actualmente me estoy orientando de forma profesional al rol de **Data Analyst**, utilizando SQL, Python y estadística para analizar información y generar insights útiles para la toma de decisiones.
