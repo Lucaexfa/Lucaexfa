@@ -1,52 +1,52 @@
-# 👋 ¡Hola! Soy Luca Farias
+# 👋 Hola, soy Luca Exequiel Farias
 
-### Analista de Sistemas · Helpdesk L2 · PowerShell Automation
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-00A4EF?logo=windows&logoColor=white)
-
-Me especializo en automatizar tareas de soporte y auditoría de equipos Windows mediante **PowerShell**, reduciendo tiempos de resolución y mejorando la calidad del diagnóstico técnico.
-
-Busco roles donde pueda combinar **análisis técnico**, **scripting**, **troubleshooting** y **mejora continua** dentro de entornos IT.
+Soy **Analista de Datos** con formación en **Análisis de Sistemas** y experiencia práctica trabajando con datos en contextos reales.  
+Actualmente me estoy orientando de forma profesional al rol de **Data Analyst**, utilizando SQL, Python y estadística para analizar información y generar insights útiles para la toma de decisiones.
 
 ---
 
-## 🔧 Tecnologías & habilidades
-- **PowerShell** (automatización, inventarios, auditorías, reportes)
-- **Windows 10/11 · Windows Server**
-- **Active Directory (búsquedas, consultas, gestión básica)**
-- **Troubleshooting de soporte L1/L2**
-- **Redes (OSI, TCP/IP, diagnósticos)**
-- **Git & GitHub**
-- Conocimientos de **SQL básico**, **documentación técnica**, y **buenas prácticas IT**
+## 🧠 Perfil
+A lo largo de mi experiencia laboral he trabajado con datos operativos y administrativos, realizando tareas de análisis, carga, validación y generación de reportes, lo que me permitió desarrollar un fuerte **pensamiento analítico**, atención al detalle y comprensión del ciclo completo del dato.
+
+Complemento este perfil con estudios en **Biotecnología**, lo que refuerza mi formación en análisis estadístico y enfoque científico, con proyección al análisis de datos técnicos y experimentales.
 
 ---
 
-## 🚀 Proyectos destacados
-### 🔹 **powershell-audits**
-Toolkit de auditoría de PCs Windows: inventario, estado del SO, parches, rendimiento, full-scan opcional y reportes HTML exportables.
-
-👉 *Ver proyecto:*  
-https://github.com/Lucaexfa/powershell-audits
-
-_(Estoy expandiendo este toolkit a medida que avanzo en PowerShell y automatización IT)_
-
----
-
-## 📊 Lo que puedo aportar
-- Scripts que agilizan tareas repetitivas en soporte  
-- Auditorías rápidas para diagnosticar equipos  
-- Reportes claros en HTML/CSV para decisiones IT  
-- Documentación técnica y mejora continua  
+## 🛠️ Herramientas y conocimientos
+- **Lenguajes:** Python, SQL  
+- **Bases de datos:** MySQL, SQLite  
+- **Análisis de datos:** Pandas, NumPy  
+- **Visualización:** Matplotlib, Seaborn  
+- **Estadística:** Estadística descriptiva, análisis exploratorio (EDA)  
+- **Otros:** Excel, Git, GitHub  
 
 ---
 
-## 📫 Contacto
-**LinkedIn:** www.linkedin.com/in/luca-exequiel-farias-58b582248
-
-**GitHub:** https://github.com/Lucaexfa
+## 🔍 Enfoque de trabajo
+En mis proyectos aplico un proceso de análisis de datos estructurado y reproducible:
+- Extracción de datos desde bases relacionales utilizando SQL
+- Limpieza, transformación y validación de datasets con Python (Pandas)
+- Análisis exploratorio para identificar patrones, tendencias y posibles anomalías
+- Visualización de métricas relevantes para facilitar la interpretación de resultados
+- Comunicación de conclusiones de forma clara y orientada a negocio
 
 ---
 
-> _Este perfil está en constante mejora mientras avanzo con mi portfolio de automatización PowerShell 🚀_
+## 📊 Proyectos
+En este perfil se pueden encontrar proyectos de **análisis de datos end-to-end**, desarrollados sobre datasets reales o simulados, donde documento tanto el proceso como las conclusiones obtenidas.
 
+📌 **Proyecto destacado:**  
+👉 loyalty-program-impact-analysis 
+Análisis de datos utilizando Python y SQL, con foco en limpieza de datos, EDA y visualización de insights.  
+*(Ver repositorio correspondiente)*
+
+---
+
+## 🎯 Objetivo profesional
+Estoy buscando oportunidades como **Data Analyst Jr / Data Analyst** en Argentina, donde pueda aportar valor desde el análisis de datos y continuar desarrollándome profesionalmente, especialmente en entornos tecnológicos, científicos o de negocio.
+
+---
+
+## 📬 Contacto
+- 💼 LinkedIn: [tu link de LinkedIn]  
+- 📧 Email: [tu email]
